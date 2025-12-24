@@ -11,4 +11,4 @@ A Bash script that calculates simple interest based on user input.
 - GitHub
 
 ## Author
-Your Name
+Jana Mahmoud
